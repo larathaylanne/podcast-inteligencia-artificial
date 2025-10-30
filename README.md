@@ -1,8 +1,8 @@
 # ViaMangue 🎙️
 
-**ViaMangue** é um podcast híbrido que conecta inovação, tecnologia e cultura do Recife. Produzido com **apoio de inteligência artificial** — usando **ChatGPT**, **Copilot** e **ElevenLabs** — da capa à voz e ao roteiro, o programa utiliza dados reais e técnicas de engenharia de prompt para explorar como o futuro pode ter raízes no mangue.
+<a href="https://open.spotify.com/show/6nWzynVXsmxPZZqhG5VVuk" target="_blank">🎧 Ouça no Spotify</a>
 
-[Ouça no Spotify](https://open.spotify.com/show/6nWzynVXsmxPZZqhG5VVuk)
+**ViaMangue** é um podcast híbrido que conecta inovação, tecnologia e cultura do Recife. Produzido com **apoio de inteligência artificial** — usando **ChatGPT**, **Copilot** e **ElevenLabs** — da capa à voz e ao roteiro, o programa utiliza dados reais e técnicas de engenharia de prompt para explorar como o futuro pode ter raízes no mangue.
 
 ---
 
